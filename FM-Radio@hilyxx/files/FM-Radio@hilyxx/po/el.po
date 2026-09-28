@@ -5,10 +5,10 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: FM-Radio@hilyxx 1.3.2\n"
+"Project-Id-Version: FM-Radio@hilyxx 1.3.4\n"
 "Report-Msgid-Bugs-To: https://github.com/linuxmint/cinnamon-spices-applets/"
 "issues\n"
-"POT-Creation-Date: 2026-09-09 11:13+0200\n"
+"POT-Creation-Date: 2026-09-27 15:29+0200\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -16,68 +16,68 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.4.2\n"
+"X-Generator: Poedit 3.6\n"
 
 #. metadata.json->name
-#. applet.js:68 applet.js:140 applet.js:172 applet.js:211 applet.js:214
-#. applet.js:220 applet.js:242 applet.js:244 applet.js:249 applet.js:489
-#. applet.js:541 applet.js:557 applet.js:583 applet.js:609 applet.js:630
+#. applet.js:74 applet.js:164 applet.js:196 applet.js:235 applet.js:238
+#. applet.js:244 applet.js:266 applet.js:268 applet.js:273 applet.js:513
+#. applet.js:565 applet.js:581 applet.js:607 applet.js:633 applet.js:654
 msgid "FM Radio"
 msgstr "Ραδιόφωνο FM"
 
-#. applet.js:81
+#. applet.js:87
 msgid "Reload applet"
 msgstr "Επαναφόρτωση εφαρμογής"
 
-#. applet.js:140
+#. applet.js:164
 msgid "Please select a station."
 msgstr "Παρακαλώ επιλέξτε ένα σταθμό."
 
-#. applet.js:169
+#. applet.js:193
 msgid "station added successfully!"
 msgstr "επιτυχής προσθήκη σταθμού!"
 
-#. applet.js:170
+#. applet.js:194
 msgid "stations added successfully!"
 msgstr "επιτυχής προσθήκη σταθμών!"
 
-#. applet.js:185
+#. applet.js:209
 msgid "Music"
 msgstr "Μουσική"
 
-#. applet.js:211
+#. applet.js:235
 msgid "Stations successfully saved to:\n"
 msgstr "Οι σταθμοί αποθηκεύτηκαν επιτυχώς στο:\n"
 
-#. applet.js:214
+#. applet.js:238
 msgid "Error saving backup."
 msgstr "Σφάλμα αποθήκευσης αντιγράφων ασφαλείας."
 
-#. applet.js:220
+#. applet.js:244
 msgid "Please select a backup file to import first."
 msgstr "Παρακαλώ επιλέξτε πρώτα ένα αντίγραφο ασφαλείας για εισαγωγή."
 
-#. applet.js:242
+#. applet.js:266
 msgid "Stations successfully restored!"
 msgstr "Επιτυχής επαναφορά σταθμών!"
 
-#. applet.js:244
+#. applet.js:268
 msgid "Invalid JSON file format."
 msgstr "Άκυρη μορφή αρχείων JSON."
 
-#. applet.js:249
+#. applet.js:273
 msgid "Error reading the backup file."
 msgstr "Σφάλμα ανάγνωσης αρχείου ασφαλείας."
 
-#. applet.js:373
+#. applet.js:397
 msgid "All stations"
 msgstr "Όλοι οι σταθμοί"
 
-#. applet.js:386
+#. applet.js:410
 msgid "Reconnecting..."
 msgstr "Επανασύνδεση..."
 
-#. applet.js:403
+#. applet.js:427
 msgid ""
 "Multimedia codecs are missing.\n"
 "\n"
@@ -89,39 +89,39 @@ msgstr ""
 "Παρακαλώ εγκαταστήστε τα πρόσθετα του GStreamer (good, base, bad, ugly) της "
 "διανομής σας, για να χρησιμοποιήσετε το ραδιόφωνο."
 
-#. applet.js:404
+#. applet.js:428
 msgid "FM Radio Error"
 msgstr "Σφάλμα του ραδιοφώνου FM"
 
-#. applet.js:407
+#. applet.js:431
 msgid "Missing Codecs"
 msgstr "Απουσία αποκωδικοποιητών"
 
-#. applet.js:429 applet.js:480
+#. applet.js:453 applet.js:504
 msgid "Waiting..."
 msgstr "Αναμονή..."
 
-#. applet.js:489
+#. applet.js:513
 msgid "Please start a radio station first to record it."
 msgstr "Παρακαλώ εκκινήστε πρώτα ένα ραδιοφωνικό σταθμό για να κάνετε εγγραφή."
 
-#. applet.js:541
+#. applet.js:565
 msgid "Cannot record: This station has no valid URL."
 msgstr "Αδυναμία εγγραφής: Ο σταθμός δεν έχει έγκυρη διεύθυνση ροής (URL)."
 
-#. applet.js:557
+#. applet.js:581
 msgid "Recording started: "
 msgstr "Εκκίνηση εγγραφής: "
 
-#. applet.js:583
+#. applet.js:607
 msgid "Error starting recording."
 msgstr "Σφάλμα εκκίνησης εγγραφής."
 
-#. applet.js:609
+#. applet.js:633
 msgid "Recording finished and saved to the /FM-Radio folder."
 msgstr "Η εγγραφή ολοκληρώθηκε και αποθηκεύτηκε στο φάκελο /FM-Radio."
 
-#. channels.js:39
+#. channels.js:42
 msgid "Error"
 msgstr "Σφάλμα"
 
@@ -224,8 +224,8 @@ msgid "Stream URL"
 msgstr "Διεύθυνση ροής (URL)"
 
 #. settings-schema.json->custom_stations->columns->title
-msgid "Image path (e.g., /home/user/logo.png)"
-msgstr "Διαδρομή εικόνας (π.χ. /home/user/logo.png)"
+msgid "Image name (e.g., cover.png)"
+msgstr "Όνομα εικόνας (π.χ. cover.png)"
 
 #. settings-schema.json->info1->description
 msgid ""
@@ -235,12 +235,13 @@ msgid ""
 "• Create an image of any format (png, jpeg, or svg) with a square 'cover' "
 "style size (e.g., 300x300).\n"
 "\n"
-"• Station images are stored by default in the applet's image folder, and the "
-"path is /images/yourcover.png. For images located in another folder, apply "
-"the same process and adapt the path accordingly.\n"
+"• A folder named 'fm-radio-covers' is created in the Pictures directory to "
+"securely store your custom covers. It is not recommended to place your "
+"images directly in the applet folder, as they will be overwritten with every "
+"update.\n"
 "\n"
-"• The easiest way is to copy the desired image and paste it into the "
-"provided field; this will directly paste the image path.\n"
+"• Then simply copy the name of the image and paste it into the field "
+"provided (e.g., cover.png).\n"
 msgstr ""
 "\n"
 "Για χρήση προσαρμοσμένης εικόνας ενός ραδιοφωνικού σταθμού:\n"
@@ -248,14 +249,13 @@ msgstr ""
 "• Δημιουργήστε μια εικόνα οποιασδήποτε μορφής (png, jpeg, or svg) με σχήμα "
 "τετράγωνου 'εξώφυλλου' συγκεκριμένου μεγέθους (π.χ. 300x300).\n"
 "\n"
-"• Οι εικόνες των σταθμών αποθηκεύονται εκ προεπιλογής στον φάκελο εικόνων "
-"της εφαρμογής και η διαδρομή είναι /images/yourcover.png. Για εικόνες "
-"τοποθετημένες σε διαφορετικό φάκελο, εφαρμόστε την ίδια διαδικασία και "
-"προσαρμόστε ανάλογα τη διαδρομή.\n"
+"• Ένας φάκελος με το όνομα «fm-radio-covers» δημιουργείται στον κατάλογο "
+"Pictures, ώστε να αποθηκεύετε με ασφάλεια τις προσαρμοσμένες εικόνες σας. "
+"Δεν συνιστάται να τοποθετείτε τις εικόνες απευθείας στον φάκελο της "
+"εφαρμογής, καθώς θα αντικαθίστανται σε κάθε ενημέρωση.\n"
 "\n"
-"• Ο ευκολότερος τρόπος είναι να αντιγράψετε την επιθυμητή εικόνα και να την "
-"επικολλήσετε στο εμφανιζόμενο πεδίο. Αυτό θα επικολλήσει απευθείας τη "
-"διαδρομή της εικόνας.\n"
+"• Στη συνέχεια, απλώς αντιγράψτε το όνομα της εικόνας και επικολλήστε το στο "
+"αντίστοιχο πεδίο (π.χ. cover.png).\n"
 
 #. settings-schema.json->info2->description
 msgid ""
